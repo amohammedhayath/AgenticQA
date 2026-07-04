@@ -1,0 +1,28 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Credentials & Private Settings
+.env
+.env.*
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# JetBrains/IDE Settings
+.idea/
+.vscode/
+
+# Local/Dynamic BDD artifacts
+bdd/page_source.html
+bdd/features/test_cases.feature
+bdd/steps/generated.py
+
+# System Files
+.DS_Store
+Thumbs.db

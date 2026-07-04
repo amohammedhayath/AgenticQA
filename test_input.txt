@@ -1,0 +1,13 @@
+Open the https://www.saucedemo.com/ in chrome
+Type standard_user in Username
+Type secret_sauce in Password
+Click on the Login button
+Click on the Add to cart button for Sauce Labs Backpack
+Click on the Shopping Cart container
+Click on the Checkout button
+Type Test in First Name
+Type User in Last Name
+Type 12345 in Zip/Postal Code
+Click on the Continue button
+Click on the Finish button
+Click on the Back Home button

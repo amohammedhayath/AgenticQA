@@ -1,0 +1,14 @@
+{
+  "chrome": {
+    "platformName": "web",
+    "browserName": "chrome",
+    "deviceName": "desktop"
+  },
+  "android": {
+    "platformName": "Android",
+    "deviceName": "emulator-5554",
+    "appPackage": "com.example.app",
+    "appActivity": ".MainActivity",
+    "automationName": "UiAutomator2"
+  }
+}
