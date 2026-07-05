@@ -3,6 +3,7 @@
 > **Autonomous, Self-Correcting BDD Test Generation & Execution powered by LangGraph, Behave, and Gemini.**
 
 AgenticQA is a state-of-the-art, AI-driven automation framework that bridges the gap between natural-language test cases and robust, executed Gherkin specifications. Instead of relying on static, brittle element locators and pre-written step definitions, AgenticQA uses **LangGraph** orchestration and **Gemini GenAI** to autonomously parse English text, translate it to Gherkin features, generate missing step code on-the-fly using the live compressed browser DOM, execute tests, and permanently retain custom step definitions.
+<img width="800" height="450" alt="ezgif-67e9ded3b5ee020a" src="https://github.com/user-attachments/assets/247d88b6-26a4-4613-8cb6-509d051f6077" />
 
 ---
 
